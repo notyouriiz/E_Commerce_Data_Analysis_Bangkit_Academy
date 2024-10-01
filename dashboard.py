@@ -165,16 +165,16 @@ else:
 st.header('Conclusion and Insights')
 
 st.markdown("""<ol>
-    <li>What product is needed to be prioritized for advertisement and improvements?</li>
-    <li>What is the most undersold product, and how to boost the sales?</li>
-    <li>If we want to launch a new product, what product criteria it needs to have so it can be a best seller in the market or at least it can support the undersold products to have better sales?</li>
+    <li style= "color:orange">What product is needed to be prioritized for advertisement and improvements?</li>
+    <li style= "color:orange">What is the most undersold product, and how to boost the sales?</li>
+    <li style= "color:orange">If we want to launch a new product, what product criteria it needs to have so it can be a best seller in the market or at least it can support the undersold products to have better sales?</li>
 </ol>
 
 <b>INSIGHT:</b>
 <ol>
-    <li><b>Prioritize improvements and advertising for household products.</b> Besides having a general market where all segments are potential customers, household products also represent a bestselling product category.</li>
-    <li><b>Focus on market research and advertise according to the market.</b> It can be used as feedback to enhance product features according to customer preferences.</li>
-    <li><b>Analyze trends and sales to identify potential opportunities.</b> Focusing on features that have an existing demand can result in potential sales growth.</li>
+    <li><b style= "color:lightblue">Prioritize improvements and advertising for household products.</b> Besides having a general market where all segments are potential customers, household products also represent a bestselling product category.</li>
+    <li><b style= "color:lightblue">Focus on market research and advertise according to the market.</b> It can be used as feedback to enhance product features according to customer preferences.</li>
+    <li><b style= "color:lightblue">Analyze trends and sales to identify potential opportunities.</b> Focusing on features that have an existing demand can result in potential sales growth.</li>
 </ol>
 """, unsafe_allow_html=True)
 
