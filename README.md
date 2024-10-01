@@ -5,7 +5,7 @@ Finding a way to increase sell and knowing what product should be on prioritize 
 ### 1. First of all, clone the repository into local directory, use this command:
 
 ```bash
-  git clone https://github.com/notyouriiz/E_Commerce_Data_Analysis.git
+  git clone https://github.com/notyouriiz/E_Commerce_Data_Analysis_Bangkit_Academy.git
   cd submission
   ```
 
