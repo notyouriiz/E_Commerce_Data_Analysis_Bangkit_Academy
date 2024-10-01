@@ -32,4 +32,4 @@ This project also had an analysis using Jupyter Notebook which contain on file n
   </ol>
 
 # Dashboard URL
-[Dashboard Link](https://e-commerce-dashboard-dataset.streamlit.app/)
+[Dashboard Link](https://dashboardpy-66z3fjhemw3pqjyg6q6wcn.streamlit.app/)
